@@ -1,8 +1,14 @@
+:root {
+  --form-purple: #54186E;
+  --form-purple-hover: #7c43a0;
+  --form-pink: #F66B97;
+  --form-teal: #52AA97;
+  --form-teal-opaque: rgba(214, 240, 235, 0.5);
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
