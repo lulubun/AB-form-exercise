@@ -1,7 +1,9 @@
 # Notes I wanted to share for this assignment
 
 ## Looking at the project
-- run ``npm install`` in the root of this project
+- visit ``https://drive.google.com/file/d/1gsuFI8Mv4PnXqu6IVlPQmHqvuriV7QNM/view?usp=sharing`` to download a zipped copy of the project
+- To run the code, open a terminal and navigate to the root folder of the project after it's been unzipped
+- I've removed node_modules before zipping to keep the file smaller so you will need to run ``npm install``
 - followed by ``npm run start`` to start the project
 - visit ``http://localhost:3000/`` in your browser to view
 - quick VALID inputs to copy+paste into the fields

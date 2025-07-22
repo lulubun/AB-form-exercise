@@ -8,7 +8,6 @@ import './BandForm.css';
 
 function BandForm({ bands, formData, dispatch }) {
   const [selectedBand, setBand] = useState(bands[0]);
-
   const bandMap = useMemo(() => {
     return bands.reduce((map, band) => {
       map[band.id] = band;
